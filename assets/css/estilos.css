@@ -1,0 +1,15 @@
+.encabezado{
+    width:100%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 30%;
+    flex-direction: column;
+}
+
+body{
+    background-color: green;
+}
